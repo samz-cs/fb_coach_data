@@ -2,7 +2,7 @@
 	"conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
-					"prestige": "90",
+					"prestige": "95",
 					"hexColor": "#9E1B32",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -104,7 +104,7 @@
 				},
 				{
 					"abbreviation": "UGA",
-					"prestige": "92",
+					"prestige": "95",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1391,7 +1391,7 @@
 				},
 {
 					"abbreviation": "UT",
-					"prestige": "78",
+					"prestige": "95",
 					"hexColor": "#BF5700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1401,7 +1401,7 @@
 						"homeState": "Alabama",
 						"ratPot": "85",
 						"hometown": "Elberta",
-						"ratTalent": "50",
+						"ratTalent": "90",
 						"baselinePrestige": "90",
 						"coachingAbility": "70",
 						"name": "Kyle Flood",
@@ -1426,9 +1426,9 @@
 						"contractLength": "6",
 						"startYear": "2022",
 						"age": "48",
-						"ratOff": "74",
+						"ratOff": "95",
 						"cumulativePrestige": "0",
-						"ratDef": "65",
+						"ratDef": "85",
 						"homeState": "New Hampshire",
 						"ratPot": "70",
 						"hometown": "Danbury",
